@@ -40,3 +40,11 @@ div .line{
 ul{
     padding: 30px;
 }
+
+
+@media screen and (max-width:720px){
+    /*For Mobile Phones*/
+    body{
+        width: 60vw;
+    }
+}
